@@ -18,7 +18,7 @@ iNews是一套开源的极简社区程序，我们的目标是让开发者轻松
 
 - [安装](./docs/01-Install.md)：在自己的服务器上运行 iNews 程序
 - [配置](./docs/02-Setup.md)：网站信息、管理员（审批权限）、邮件发送与邮件服务器设置等
-
+- [Issue]:php-fpm.conf php_admin_value[sendmail_path] = /usr/sbin/sendmail -fXXXe@xxx.com -t -i
 
 #### 三、反馈
 
